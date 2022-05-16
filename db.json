@@ -1,0 +1,25 @@
+{
+  "clientes": [
+    {
+      "nombre": "Alejandra",
+      "email": "aleja@gmail.com",
+      "telefono": "64646464",
+      "empresa": "Globant",
+      "id": 2
+    },
+    {
+      "nombre": "Hector",
+      "email": "elfather@gmail.com",
+      "telefono": "131313131",
+      "empresa": "Mercado Libre",
+      "id": 3
+    },
+    {
+      "nombre": "Carlos Santana",
+      "email": "santata@gmail.com",
+      "telefono": "696969",
+      "empresa": "Globant",
+      "id": 4
+    }
+  ]
+}
